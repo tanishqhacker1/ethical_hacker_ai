@@ -1,0 +1,5 @@
+shodan
+requests
+pyttsx3
+SpeechRecognition
+pyaudio
